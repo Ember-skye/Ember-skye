@@ -1,16 +1,110 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Eric Skye
 
-<!--
-**Ember-skye/Ember-skye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+> Real Name: Sugam Tharu
+> Alias: Eric Skye
+> Status: Building ideas into reality...
+```
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Future+Software+Developer;Web+Developer;App+Developer;Game+Development+Explorer;Learning+Something+New+Everyday;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Eric Skye
+Location: Nepal
+Role: Student & Future Developer
+Focus:
+  - Web Development
+  - App Development
+  - Game Development
+  - AI & Creative Tech
+  - Open Source Learning
+```
+
+💻 I enjoy building things from ideas.
+⚡ Currently exploring software development and modern web technologies.
+🚀 Passionate about futuristic UI, creative coding, and technology.
+🛠 I also love creating things from old electronics and experimenting with tech.
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mysql,git,vscode" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```txt
+> React Ecosystem
+> Backend Development
+> App Development
+> SQL & Databases
+> Full Stack Development
+> Software Architecture
+```
+
+---
+
+# 🚀 Projects
+
+### 🌌 Synesthesia Visualizer
+
+A futuristic audio-visual experience with immersive effects and visuals.
+
+### ⚡ Experimental Web Projects
+
+Creative UI experiments, animations, and interactive web experiences.
+
+### 🎮 Game Development Journey
+
+Learning and experimenting with game mechanics and development concepts.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Favorite Quote
+
+> ✎﹏﹏ᴱᵛᵉʳʸ ᵐᵒᵐᵉⁿᵗ ⁱˢ ᵃ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᵇᵉᵃᵘᵗⁱᶠᵘˡ, ᶜᵒⁿⁿᵉᶜᵗ ʷⁱᵗʰ ᵒᵗʰᵉʳˢ ᵃⁿᵈ ˡᵉᵃᵛᵉ ʸᵒᵘʳ ᵐᵃʳᵏ.﹏﹏
+
+---
+
+<p align="center">
+
+```txt
+Initializing Future...
+███████████████████ 100%
+```
+
+</p>
