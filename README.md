@@ -49,8 +49,8 @@ Focus:
 > Python
 > Flutter
 > App Development
-> SQL & Databases
-> Software Architecture
+> Game Development
+> Cybersecurity
 ```
 
 ---
