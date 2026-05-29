@@ -86,7 +86,7 @@ Learning and experimenting with game mechanics and development concepts.
 <p align="center">
 
 <a href="https:https://www.facebook.com/sugam.chy.226792">  
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=White"/>
+ ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)   
 </a>
 
 </p>
