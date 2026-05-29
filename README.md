@@ -14,7 +14,7 @@
 # 🧠 About Me
 
 ```yaml
-Name: Eric Skye
+Occupation : Student
 Location: Nepal
 Role: Student & Future Developer
 Focus:
