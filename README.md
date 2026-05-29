@@ -14,9 +14,8 @@
 # 🧠 About Me
 
 ```yaml
-Occupation : Student
 Location: Nepal
-Role: Student & Future Developer
+Role: Student 
 Focus:
   - Web Development
   - App Development
