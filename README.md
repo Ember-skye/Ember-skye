@@ -46,11 +46,10 @@ Focus:
 # 📚 Currently Learning
 
 ```txt
-> React Ecosystem
-> Backend Development
+> Python
+> Flutter
 > App Development
 > SQL & Databases
-> Full Stack Development
 > Software Architecture
 ```
 
@@ -86,8 +85,8 @@ Learning and experimenting with game mechanics and development concepts.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+<a href="https:https://www.facebook.com/sugam.chy.226792">
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)   
 </a>
 
 </p>
