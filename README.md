@@ -53,33 +53,6 @@ Focus:
 
 ---
 
-# 🚀 Projects
-
-### 🌌 Synesthesia Visualizer
-
-A futuristic audio-visual experience with immersive effects and visuals.
-
-### ⚡ Experimental Web Projects
-
-Creative UI experiments, animations, and interactive web experiences.
-
-### 🎮 Game Development Journey
-
-Learning and experimenting with game mechanics and development concepts.
-
----
-
 # ✨ Favorite Quote
 
 > ✎﹏﹏ᴱᵛᵉʳʸ ᵐᵒᵐᵉⁿᵗ ⁱˢ ᵃ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᵇᵉᵃᵘᵗⁱᶠᵘˡ, ᶜᵒⁿⁿᵉᶜᵗ ʷⁱᵗʰ ᵒᵗʰᵉʳˢ ᵃⁿᵈ ˡᵉᵃᵛᵉ ʸᵒᵘʳ ᵐᵃʳᵏ.﹏﹏
-
----
-
-<p align="center">
-
-```txt
-Initializing Future...
-███████████████████ 100%
-```
-
-</p>
