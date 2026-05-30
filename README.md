@@ -55,4 +55,5 @@ Focus:
 
 # ✨ Favorite Quote
 
-> ✎﹏﹏ᴱᵛᵉʳʸ ᵐᵒᵐᵉⁿᵗ ⁱˢ ᵃ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʳᵉᵃᵗᵉ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᵇᵉᵃᵘᵗⁱᶠᵘˡ, ᶜᵒⁿⁿᵉᶜᵗ ʷⁱᵗʰ ᵒᵗʰᵉʳˢ ᵃⁿᵈ ˡᵉᵃᵛᵉ ʸᵒᵘʳ ᵐᵃʳᵏ.﹏﹏
+> Every moment is a chance to create something beautiful, connect with others and leave your mark.
+
